@@ -13,7 +13,7 @@ Este projeto consiste no desenvolvimento de uma máquina de multibanco capaz de 
 1.Consulta de saldo
 
 
-2.Saques de dinheiro
+2.Levantamento de dinheiro
 
 
 3.Depósitos em conta
