@@ -11,7 +11,11 @@ Descrição do Projeto:
 Este projeto consiste no desenvolvimento de uma máquina de multibanco capaz de realizar operações como:
 
 1.Consulta de saldo
+
+
 2.Saques de dinheiro
+
+
 3.Depósitos em conta
 
 
